@@ -15,7 +15,6 @@
 - **DevOps:** Familiar with CI/CD, containerization, and cloud platforms
 
 ## 🧮 Mathematical Interests
-- Mathematical Analysis
 - Functional Analysis
 - Measure Theory
 - Partial Differential Equations
